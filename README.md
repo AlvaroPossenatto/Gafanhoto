@@ -1,4 +1,4 @@
-# Gafanhoto
+# Learning Version Control
 
 Primeiro VCS - Git e GitHub
 
