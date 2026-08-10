@@ -1,4 +1,4 @@
-# Learning Version Control
+# Learning Versioning
 
 Primeiro VCS - Git e GitHub
 
